@@ -101,7 +101,7 @@ def procesar_corte_control(filas):
         })
 
         CANSUC += 1
-        TOTALIMP += IMP_SUC
+        TOTALIMP += IMP_SUC * 2
 
     resultado["totales_generales"] = {
         "cantidad_sucursales": CANSUC,
