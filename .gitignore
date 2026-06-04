@@ -1,0 +1,4 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+archivo_ordenado_temp.csv
